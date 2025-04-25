@@ -2,4 +2,4 @@
 - 👀 I am interested in arduino, programming in python and c, creating various projects
 - 🌱 I am currently learning Git and GitHub and programming in C
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I've already destroyed sooooo mucht Arduino boards
+- ⚡ Fun fact: I've already destroyed sooooo many Arduino boards
